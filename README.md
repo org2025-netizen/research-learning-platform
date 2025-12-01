@@ -65,7 +65,7 @@ To create an accessible platform where learners can:
 
 ## 👥 Team Roles
 - **Adam (Educator/Developer)**: Architecture, frontend/backend, deployment, course content.
-- **Statistician Collaborator**: Data workflows, visualization, statistical exercises, research testing.
+- **Sarah (Statistician Collaborator)**: Data workflows, visualization, statistical exercises, research testing.
 
 ---
 
